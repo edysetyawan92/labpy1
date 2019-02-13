@@ -27,24 +27,34 @@ Algoritma menentukan nilai terbeasar dari 3 buah bilangan.
 
 11. Selesai
 
-Berikut dibawah ini Flowchart dari program tersebut
+Berikut dibawah ini Flowchart dari program tersebut                                                                                     
 ![2 2](https://user-images.githubusercontent.com/46749350/52713263-6ae78300-2fc9-11e9-85eb-a741dfda685c.jpg)
 
 - Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
 - Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
 - Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
-- Kemudian Run
+- Kemudian Run                                                                                                        
+
+
 
 Silahkan lihat contoh di bawah ini :
+
 ![1 1](https://user-images.githubusercontent.com/46749350/52714169-c4e94800-2fcb-11e9-85ad-5f5bd80edd8f.jpg)
+
 
 
 - Berikut hasil screenshoot dari program tersebut :
 
 1. Bilangan Pertama yang menjadi bilangan terbesar.
+![1](https://user-images.githubusercontent.com/46749350/52714535-b0f21600-2fcc-11e9-9fd7-6c9d5261b9d7.jpg)
+
 
 2. Bilangan Kedua yang menjadi bilangan terbesar.
+![2](https://user-images.githubusercontent.com/46749350/52714563-c1a28c00-2fcc-11e9-8767-b817d7f149f5.jpg)
+
 
 3. Bilangan Ketiga sebagai bilangan terbesar.
+![3](https://user-images.githubusercontent.com/46749350/52714588-d4b55c00-2fcc-11e9-8a9a-708004d0c3e3.jpg)
 
-Terima Kasih.
+
+TERIMA KASIH.
